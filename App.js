@@ -17,9 +17,6 @@ export default function App() {
     <View style = {styles.container}>
       <View style = {styles.toolbar_above}>
         <Ionicons name="md-arrow-back" size={27} color="black" />
-        <Text>
-              Samuel
-        </Text>
         <Feather name="list" size={27} color="black" />
       </View>
       <View style = {styles.Header}>
